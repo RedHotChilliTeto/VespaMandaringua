@@ -22,6 +22,13 @@
 </ul>
 
 <h1>How to install</h1>
+<ol>
+
+  <h3><li>Download the <a href="">latest</a> build in the downloads folder</li></h3>
+  <h3><li>Unzip the zip file</li></h3>
+  <h3><li>Run the Tetopear.exe file</li></h3>
+  
+</ol>
 
 <h1>How to use</h1>
 <ol>
@@ -43,7 +50,25 @@
   
   <h3><li>Find your cookie at the xhr's header, and copy it</li></h3>
   <p>Basically go to the header part and copy the "Cookie" value</p>
-  
+
   ![Copy the cookie](https://github.com/user-attachments/assets/796b15a0-897d-45b9-8364-05024b998438)
+
+  <h3><li>Run Tetopear.exe</li></h3>
+
+  <h3><li>Fill the same course name, unit, course type, and cookie</li></h3>
+  <p>Do not pause the music (very important!!)</p>
+
+  ![image](https://github.com/user-attachments/assets/1b75e825-e073-46cc-a076-9cfccbb837fa)
+
+  <h3><li>Press "Start"</li></h3> 
+  <p>Then wait till the process ends</p>
   
+  ![port](https://github.com/user-attachments/assets/930cf340-10bf-44ad-a812-2cee3037fa06)
+
+  <h3><li>Reload the page, or you can just leave the page then go to the same activity</li></h3>
+  <p>And see if this bar fills, if it doesn't fill, raise an issue for this repo</p>
+  
+  ![netwo4](https://github.com/user-attachments/assets/6f5f2ba4-8a03-4dd5-a877-4c2894ad6dc4)
+
+  <p>If the bar already filled up, you can just leave the page and the activity will be marked as complete</p>
 </ol>
