@@ -1,10 +1,33 @@
+<h1>Swatted Courses</h1>
+<ul>
+  <h3><li>English</li></h3>
+    &#x2610; A1.1 </br>
+    &#x2610; A1.2 </br>
+    &#x2610; A2.1 </br>
+    &#x2610; A2.2 </br>
+    &#x2610; B1.1 </br>
+    &#x2610; B1.2 </br>
+    &#x2610; B2.1 </br>
+    &#x2610; B2.2 </br>
+    &#x2610; C1.1 </br>
+    &#x2610; C1.2 </br>
+    &check; C2.1 (only unit 3 - 8) </br>
+    &check; C2.2  </br>
+  <h3><li>Japanese</li></h3>
+  <p>(No work yet)</p>
+  <h3><li>Chinese</li></h3>
+  <p>(No work yet)</p>
+</ul>
+
 <h1>How to install</h1>
 
 <h1>How to use</h1>
 <ol>
   <h3><li>Press Ctrl + shift + i and open the "Network" tab</li></h3>
   <p>Keep this DevTools open so you can copy your cookie</p>
-  ![Basically just pres Ctrl + shift + i and go to network](https://github.com/user-attachments/assets/9b5f1135-1383-42c8-8866-f5d4226d4515)
+  <p>
+    ![Basically just pres Ctrl + shift + i and go to network](https://github.com/user-attachments/assets/9b5f1135-1383-42c8-8866-f5d4226d4515)
+  </p>
   <h3><li>Click your target course</li></h3>
   <p>This tool only can pass Interactive Grammar\Vocabulary Activity</p>
   ![Yeah choose the course](https://github.com/user-attachments/assets/85e014a7-c2c9-442f-80c7-68094e5a318a)
