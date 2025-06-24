@@ -1,12 +1,11 @@
 <p>We skipping those interactive vocabulary/grammar activities!!!</p>
 
 <h1>Table of contents</h1>
-<ul>
-  <li><a href"https://github.com/RedHotChilliTeto/VespaMandaringua?tab=readme-ov-file#swatted-courses">Swatted Courses List</a></li>
-  <li><a href"https://github.com/RedHotChilliTeto/VespaMandaringua?tab=readme-ov-file#how-to-install">How to Install</a></li>
-  <li><a href"https://github.com/RedHotChilliTeto/VespaMandaringua?tab=readme-ov-file#how-to-use">How to Use</a></li>
-  <li><a href"https://github.com/RedHotChilliTeto/VespaMandaringua?tab=readme-ov-file#releases">Releases</a></li>
-</ul>
+
+  • [Courses](#swatted-courses) </br>
+  • [How to Install](#how-to-install) </br>
+  • [How to Use](#how-to-use) </br>
+  • [Releases](#releases) </br>
 
 <h1>Swatted Courses</h1>
 <ul>
