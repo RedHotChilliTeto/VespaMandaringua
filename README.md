@@ -1,3 +1,5 @@
+<p>We skipping those interactive vocabulary/grammar activities!!!</p>
+
 <h1>Swatted Courses</h1>
 <ul>
   <h3><li>English</li></h3>
