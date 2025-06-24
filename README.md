@@ -1,5 +1,13 @@
 <p>We skipping those interactive vocabulary/grammar activities!!!</p>
 
+<h1>Table of contents</h1>
+<ul>
+  <li><a href"https://github.com/RedHotChilliTeto/VespaMandaringua?tab=readme-ov-file#swatted-courses">Swatted Courses List</a></li>
+  <li><a href"https://github.com/RedHotChilliTeto/VespaMandaringua?tab=readme-ov-file#how-to-install">How to Install</a></li>
+  <li><a href"https://github.com/RedHotChilliTeto/VespaMandaringua?tab=readme-ov-file#how-to-use">How to Use</a></li>
+  <li><a href"https://github.com/RedHotChilliTeto/VespaMandaringua?tab=readme-ov-file#releases">Releases</a></li>
+</ul>
+
 <h1>Swatted Courses</h1>
 <ul>
   <h3><li>English</li></h3>
@@ -24,7 +32,7 @@
 <h1>How to install</h1>
 <ol>
 
-  <h3><li>Download the <a href="">latest</a> build in the downloads folder</li></h3>
+  <h3><li>Download the <a href="https://github.com/RedHotChilliTeto/VespaMandaringua/blob/154df5d8c47d825964fd958b0c2942ff5958c082/downloads/Tetopear-0.1.0.zip">latest</a> build in the downloads folder</li></h3>
   <h3><li>Unzip the zip file</li></h3>
   <h3><li>Run the Tetopear.exe file</li></h3>
   
@@ -72,3 +80,8 @@
 
   <p>If the bar already filled up, you can just leave the page and the activity will be marked as complete</p>
 </ol>
+
+<h1>Releases</h1>
+<ul>
+  <li>25/05/2025 - 0.1.0 Initial release</li>
+</ul>
