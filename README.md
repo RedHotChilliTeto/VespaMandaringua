@@ -1,4 +1,4 @@
-<p>We skipping those interactive vocabulary/grammar activities!!!</p>
+<p>We skipping those interactive vocabulary/grammar activities!!!. Automatically answers the Beelingua exercises. PLease use this tool wisely or else.</p>
 
 <h1>Table of contents</h1>
 
