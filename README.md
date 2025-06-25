@@ -82,5 +82,5 @@
 
 <h1>Releases</h1>
 <ul>
-  <li>25/05/2025 - 0.1.0 Initial release</li>
+  <li>25/06/2025 - 0.1.0 Initial release</li>
 </ul>
